@@ -2,5 +2,19 @@
 ! Title: AdGuard DNS filter
 ! Description: Block at night, so kids stay in bed
 !
+
+# spotify
 ||spotify.com^
 ||akamaized.net^
+
+# amazon prime
+||amazonvideo.com^
+||aiv-delivery.net^
+||amazon.com^
+
+# netflix
+||netflix.com
+
+# social media
+||whatsapp.net^
+
